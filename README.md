@@ -1,2 +1,2 @@
-# react-init
-init a react project
+# React init config
+    React开发环境，扩展一下就是WEB前端开发环境。不断完善中...
